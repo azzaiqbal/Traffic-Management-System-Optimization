@@ -1,5 +1,5 @@
 # Traffic-Management-System-Optimization
-Optimizes the the installation of the minimum number of security cameras required at traffic intersections based on the vertex cover problem. 
+Optimizes the installation of the minimum number of security cameras required at traffic intersections based on the vertex cover problem. 
 
 * a1: python code which takes as input street names along with their coordinates and outputs a graph with the optimized vertices and edges (based on the vertex cover problem)
 
